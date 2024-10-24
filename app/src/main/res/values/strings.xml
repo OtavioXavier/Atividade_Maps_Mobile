@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atividade Mapa</string>
+    <string name="link_mapa">Mapa</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+</resources>
